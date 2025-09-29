@@ -62,7 +62,7 @@
   ![Stars](https://img.shields.io/github/stars/farion1231/cc-switch?style=flat-square&logo=github&color=lightgrey)
   ![Last Commit](https://img.shields.io/github/last-commit/farion1231/cc-switch?style=flat-square&logo=github&color=lightgrey)
 
-## � 工具分类
+## 🔧 工具分类
 
 ### 令牌管理类
 - **Augment Token Manager**: 专业的令牌管理解决方案
@@ -164,3 +164,4 @@
 <div align="center">
   <strong>🚀 让开发工具管理更简单！</strong>
 </div>
+
