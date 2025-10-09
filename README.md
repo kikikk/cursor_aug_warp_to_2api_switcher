@@ -20,7 +20,7 @@
 | [Fly Cursor Free](https://github.com/liqiang-xxfy/fly-cursor-free) | ![Stars](https://img.shields.io/github/stars/liqiang-xxfy/fly-cursor-free?style=flat-square) | ![Last Commit](https://img.shields.io/github/last-commit/liqiang-xxfy/fly-cursor-free?style=flat-square) | ![Forks](https://img.shields.io/github/forks/liqiang-xxfy/fly-cursor-free?style=flat-square) | Cursor增强 | ⭐⭐⭐⭐⭐ |
 | [AugmentInjector](https://github.com/llpplplp/AugmentInjector) | ![Stars](https://img.shields.io/github/stars/llpplplp/AugmentInjector?style=flat-square&color=lightgrey) | ![Last Commit](https://img.shields.io/github/last-commit/llpplplp/AugmentInjector?style=flat-square&color=lightgrey) | ![Forks](https://img.shields.io/github/forks/llpplplp/AugmentInjector?style=flat-square&color=lightgrey) | 功能注入 | ⭐⭐⭐ |
 | [CC Switch](https://github.com/farion1231/cc-switch) | ![Stars](https://img.shields.io/github/stars/farion1231/cc-switch?style=flat-square&color=lightgrey) | ![Last Commit](https://img.shields.io/github/last-commit/farion1231/cc-switch?style=flat-square&color=lightgrey) | ![Forks](https://img.shields.io/github/forks/farion1231/cc-switch?style=flat-square&color=lightgrey) | 账户切换 | ⭐⭐⭐ |
-
+| [warp_tools](https://github.com/gacjie/warp_tools) | ![Stars](https://img.shields.io/github/stars/farion1231/cc-switch?style=flat-square&color=lightgrey) | ![Last Commit](https://img.shields.io/github/last-commit/farion1231/cc-switch?style=flat-square&color=lightgrey) | ![Forks](https://img.shields.io/github/forks/farion1231/cc-switch?style=flat-square&color=lightgrey) | 账户切换 | ⭐⭐⭐ |
 
 ## 🙏 致谢
 
