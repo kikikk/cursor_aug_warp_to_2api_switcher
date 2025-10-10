@@ -10,7 +10,8 @@
 
 1. 用于管理/切换 Cursor、Augment 和 Warp 等AI IDE账号的实用工具仓库集合。
 2. claude code等CLI的api合集
-3. 
+3. 公益站
+4. 工具源码/教程
 
 ## 📊 实时统计
 
