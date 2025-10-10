@@ -1,4 +1,4 @@
-# Cursor Augment Warp 登录切换工具集合
+# Cursor、Augment、Warp、claude code等AI IDE/CLI 登录/切换/to 2api工具集合
 
 <div align="center">
 
