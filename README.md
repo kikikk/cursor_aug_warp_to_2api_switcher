@@ -1,4 +1,4 @@
-# AI IDE/CLI 登录/切换/to 2api工具集合
+# AI IDE/CLI 登录/切换/2api工具集合
 
 <div align="center">
 
