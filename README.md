@@ -14,7 +14,7 @@
 
 ## 📊 实时统计
 
-| 工具名称 | Stars | 最后更新 | Forks | 主要功能 | 推荐指数 |
+| 工具名称 | Stars | 最后更新 | Forks |   IDE   | 推荐指数 |
 |---------|-------|---------|-------|---------|---------|
 | [Augment Token Manager](https://github.com/zhaochengcube/augment-token-mng) | ![Stars](https://img.shields.io/github/stars/zhaochengcube/augment-token-mng?style=flat-square) | ![Last Commit](https://img.shields.io/github/last-commit/zhaochengcube/augment-token-mng?style=flat-square) | ![Forks](https://img.shields.io/github/forks/zhaochengcube/augment-token-mng?style=flat-square) | 令牌管理 | ⭐⭐⭐⭐⭐ |
 | [YAugment](https://github.com/YanCchen/YAugment) | ![Stars](https://img.shields.io/github/stars/YanCchen/YAugment?style=flat-square) | ![Last Commit](https://img.shields.io/github/last-commit/YanCchen/YAugment?style=flat-square) | ![Forks](https://img.shields.io/github/forks/YanCchen/YAugment?style=flat-square) | 功能增强 | ⭐⭐⭐⭐⭐ |
