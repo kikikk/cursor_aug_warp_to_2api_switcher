@@ -1,4 +1,4 @@
-# Cursor、Augment、Warp、claude code等AI IDE/CLI 登录/切换/to 2api工具集合
+# AI IDE/CLI 登录/切换/to 2api工具集合
 
 <div align="center">
 
@@ -8,8 +8,9 @@
 
 </div>
 
-用于管理和切换 Cursor、Augment 和 Warp 等开发工具登录状态的实用工具仓库集合。
-
+1.用于管理/切换 Cursor、Augment 和 Warp 等AI IDE账号的实用工具仓库集合。
+2.claude code等CLI的api合集
+3.
 
 ## 📊 实时统计
 
