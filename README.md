@@ -16,7 +16,7 @@
 ## 📊 实时统计
 
 | 工具名称 | 最后更新 | Stars |   IDE   | 功能 |
-|---------|---------|-------|---------|---------|
+|---------|---------|-------|---------|---------------------------|
 | [Augment Token Manager](https://github.com/zhaochengcube/augment-token-mng) | ![Last Commit](https://img.shields.io/github/last-commit/zhaochengcube/augment-token-mng?style=flat-square) | ![Stars](https://img.shields.io/github/stars/zhaochengcube/augment-token-mng?style=flat-square) | 令牌管理 |  |
 | [YAugment](https://github.com/YanCchen/YAugment) | ![Last Commit](https://img.shields.io/github/last-commit/YanCchen/YAugment?style=flat-square) | ![Stars](https://img.shields.io/github/stars/YanCchen/YAugment?style=flat-square) | 功能增强 |  |
 | [Fly Cursor Free](https://github.com/liqiang-xxfy/fly-cursor-free) | ![Last Commit](https://img.shields.io/github/last-commit/liqiang-xxfy/fly-cursor-free?style=flat-square) | ![Stars](https://img.shields.io/github/stars/liqiang-xxfy/fly-cursor-free?style=flat-square) | Cursor增强 |  |
