@@ -25,7 +25,7 @@
 | [warp_tools](https://github.com/gacjie/warp_tools) | ![Last Commit](https://img.shields.io/github/last-commit/gacjie/warp_tools?style=flat-square&color=lightgrey) | ![Stars](https://img.shields.io/github/stars/gacjie/warp_tools?style=flat-square&color=lightgrey) | 账户切换 |  |
 | [go-augment-cleaner](https://github.com/yuaotian/go-augment-cleaner) | ![Last Commit](https://img.shields.io/github/last-commit/yuaotian/go-augment-cleaner?style=flat-square) | ![Stars](https://img.shields.io/github/stars/yuaotian/go-augment-cleaner?style=flat-square) | 清理工具 |  |
 
-<br><br><br><br><br><br><br><br><br><br>
+<br><br><br>
 
 ## 🔌 CLI API 合集
 
@@ -39,7 +39,7 @@
 | [示例项目6](https://github.com/example/project6) | ![Last Commit](https://img.shields.io/github/last-commit/example/project6?style=flat-square) | ![Stars](https://img.shields.io/github/stars/example/project6?style=flat-square) | Claude Code | API接口 |
 | [示例项目7](https://github.com/example/project7) | ![Last Commit](https://img.shields.io/github/last-commit/example/project7?style=flat-square) | ![Stars](https://img.shields.io/github/stars/example/project7?style=flat-square) | Claude Code | API接口 |
 
-<br><br><br><br><br><br><br><br><br><br>
+<br><br><br>
 
 ## 🌐 公益站
 
@@ -53,7 +53,7 @@
 | [示例站点6](https://github.com/example/site6) | ![Last Commit](https://img.shields.io/github/last-commit/example/site6?style=flat-square) | ![Stars](https://img.shields.io/github/stars/example/site6?style=flat-square) | 公益服务 | 免费API |
 | [示例站点7](https://github.com/example/site7) | ![Last Commit](https://img.shields.io/github/last-commit/example/site7?style=flat-square) | ![Stars](https://img.shields.io/github/stars/example/site7?style=flat-square) | 公益服务 | 免费API |
 
-<br><br><br><br><br><br><br><br><br><br>
+<br><br><br>
 
 ## 📚 工具源码/教程
 
@@ -67,7 +67,7 @@
 | [示例源码3](https://github.com/example/source3) | ![Last Commit](https://img.shields.io/github/last-commit/example/source3?style=flat-square) | ![Stars](https://img.shields.io/github/stars/example/source3?style=flat-square) | 源码 | 工具实现 |
 | [示例教程4](https://github.com/example/tutorial4) | ![Last Commit](https://img.shields.io/github/last-commit/example/tutorial4?style=flat-square) | ![Stars](https://img.shields.io/github/stars/example/tutorial4?style=flat-square) | 教程 | 使用指南 |
 
-<br><br><br><br><br><br><br><br><br><br>
+<br><br><br>
 
 ## 🙏 致谢
 
