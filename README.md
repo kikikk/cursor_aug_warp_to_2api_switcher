@@ -25,6 +25,27 @@
 | [warp_tools](https://github.com/gacjie/warp_tools) | ![Last Commit](https://img.shields.io/github/last-commit/gacjie/warp_tools?style=flat-square&color=lightgrey) | ![Stars](https://img.shields.io/github/stars/gacjie/warp_tools?style=flat-square&color=lightgrey) | 账户切换 |  |
 | [go-augment-cleaner](https://github.com/yuaotian/go-augment-cleaner) | ![Last Commit](https://img.shields.io/github/last-commit/yuaotian/go-augment-cleaner?style=flat-square) | ![Stars](https://img.shields.io/github/stars/yuaotian/go-augment-cleaner?style=flat-square) | 清理工具 |  |
 
+## 🔌 CLI API 合集
+
+| 工具名称 | 最后更新 | Stars | CLI类型 | 功能 |
+|---------|---------|-------|---------|---------------------------|
+| [示例项目1](https://github.com/example/project1) | ![Last Commit](https://img.shields.io/github/last-commit/example/project1?style=flat-square) | ![Stars](https://img.shields.io/github/stars/example/project1?style=flat-square) | Claude Code | API接口 |
+| [示例项目2](https://github.com/example/project2) | ![Last Commit](https://img.shields.io/github/last-commit/example/project2?style=flat-square) | ![Stars](https://img.shields.io/github/stars/example/project2?style=flat-square) | Claude Code | API接口 |
+
+## 🌐 公益站
+
+| 站点名称 | 最后更新 | Stars | 服务类型 | 功能 |
+|---------|---------|-------|---------|---------------------------|
+| [示例站点1](https://github.com/example/site1) | ![Last Commit](https://img.shields.io/github/last-commit/example/site1?style=flat-square) | ![Stars](https://img.shields.io/github/stars/example/site1?style=flat-square) | 公益服务 | 免费API |
+| [示例站点2](https://github.com/example/site2) | ![Last Commit](https://img.shields.io/github/last-commit/example/site2?style=flat-square) | ![Stars](https://img.shields.io/github/stars/example/site2?style=flat-square) | 公益服务 | 免费API |
+
+## 📚 工具源码/教程
+
+| 项目名称 | 最后更新 | Stars | 类型 | 功能 |
+|---------|---------|-------|---------|---------------------------|
+| [示例教程1](https://github.com/example/tutorial1) | ![Last Commit](https://img.shields.io/github/last-commit/example/tutorial1?style=flat-square) | ![Stars](https://img.shields.io/github/stars/example/tutorial1?style=flat-square) | 教程 | 使用指南 |
+| [示例源码1](https://github.com/example/source1) | ![Last Commit](https://img.shields.io/github/last-commit/example/source1?style=flat-square) | ![Stars](https://img.shields.io/github/stars/example/source1?style=flat-square) | 源码 | 工具实现 |
+
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 ## 🙏 致谢
