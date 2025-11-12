@@ -45,9 +45,9 @@
 
 | 站点名称 | 最后更新 | Stars | 服务类型 | 功能 |
 |---------|---------|-------|---------|---------------------------|
-| [示例站点1]([https://github.com/example/site1](https://fanyi.963312.xyz)) | ![Last Commit](https://img.shields.io/github/last-commit/example/site1?style=flat-square) | ![Stars](https://img.shields.io/github/stars/example/site1?style=flat-square) | 公益服务 | 免费API |
-| [示例站点2]([https://github.com/example/site2](https://api.kkyyxx.xyz)) | ![Last Commit](https://img.shields.io/github/last-commit/example/site2?style=flat-square) | ![Stars](https://img.shields.io/github/stars/example/site2?style=flat-square) | 公益服务 | 免费API |
-| [示例站点3]([https://github.com/example/site3](https://anyrouter.top)) | ![Last Commit](https://img.shields.io/github/last-commit/example/site3?style=flat-square) | ![Stars](https://img.shields.io/github/stars/example/site3?style=flat-square) | 公益服务 | 免费API |
+| [fanyi.963312.xyz](https://fanyi.963312.xyz) | - | - | 公益服务 | 免费API |
+| [api.kkyyxx.xyz](https://api.kkyyxx.xyz) | - | - | 公益服务 | 免费API |
+| [anyrouter.top](https://anyrouter.top) | - | - | 公益服务 | 免费API |
 | [示例站点4](https://github.com/example/site4) | ![Last Commit](https://img.shields.io/github/last-commit/example/site4?style=flat-square) | ![Stars](https://img.shields.io/github/stars/example/site4?style=flat-square) | 公益服务 | 免费API |
 | [示例站点5](https://github.com/example/site5) | ![Last Commit](https://img.shields.io/github/last-commit/example/site5?style=flat-square) | ![Stars](https://img.shields.io/github/stars/example/site5?style=flat-square) | 公益服务 | 免费API |
 | [示例站点6](https://github.com/example/site6) | ![Last Commit](https://img.shields.io/github/last-commit/example/site6?style=flat-square) | ![Stars](https://img.shields.io/github/stars/example/site6?style=flat-square) | 公益服务 | 免费API |
