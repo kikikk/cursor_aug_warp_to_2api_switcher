@@ -48,7 +48,7 @@
 | [fanyi.963312.xyz](https://fanyi.963312.xyz) | - | - | 公益服务 | 免费API |
 | [api.kkyyxx.xyz](https://api.kkyyxx.xyz) | - | - | 公益服务 | 免费API |
 | [anyrouter.top](https://anyrouter.top) | - | - | 公益服务 | 免费API |
-| [示例站点4](https://github.com/example/site4) | ![Last Commit](https://img.shields.io/github/last-commit/example/site4?style=flat-square) | ![Stars](https://img.shields.io/github/stars/example/site4?style=flat-square) | 公益服务 | 免费API |
+| [aicodemirror](www.aicodemirror.com) | ![Last Commit](https://img.shields.io/github/last-commit/example/site4?style=flat-square) | ![Stars](https://img.shields.io/github/stars/example/site4?style=flat-square) | 公益服务 | 免费API |
 | [示例站点5](https://github.com/example/site5) | ![Last Commit](https://img.shields.io/github/last-commit/example/site5?style=flat-square) | ![Stars](https://img.shields.io/github/stars/example/site5?style=flat-square) | 公益服务 | 免费API |
 | [示例站点6](https://github.com/example/site6) | ![Last Commit](https://img.shields.io/github/last-commit/example/site6?style=flat-square) | ![Stars](https://img.shields.io/github/stars/example/site6?style=flat-square) | 公益服务 | 免费API |
 | [示例站点7](https://github.com/example/site7) | ![Last Commit](https://img.shields.io/github/last-commit/example/site7?style=flat-square) | ![Stars](https://img.shields.io/github/stars/example/site7?style=flat-square) | 公益服务 | 免费API |
